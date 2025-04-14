@@ -288,7 +288,7 @@ body.fullscreen-enabled.mobile #autorotateToggle {
 }
 
 .mobile #sceneList .scenes {
-  height: 100%;
+  height: max-content;
 }
 
 #sceneList.enabled {
